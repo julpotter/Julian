@@ -3,7 +3,7 @@
 #include<math.h>
 #include<pthread.h>
 
-/*
+/* Class code
  * Forward declarations of some functions 
  */
 int isPrime(int N);
